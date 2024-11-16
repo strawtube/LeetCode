@@ -2,6 +2,8 @@
 
 This repository contains solutions to problems from [LeetCode](https://leetcode.com/), implemented in **Java**, **C++**, and **Python**. Each language has its own directory, and the solutions are organized as individual files corresponding to each problem.  
 
+---
+
 ### File Format  
 - Each solution file contains:  
   - A **multiline comment** at the top with the problem description and examples (copied directly from LeetCode).  
